@@ -3,7 +3,7 @@
 Hi👋 I am Sonwabile Balite😁❤
 #### Though it's always under constant construction😂😅, I hope you enjoy visiting my Github profile😃
 
-I am a hardworking and determined student with an eager hunger for knowledge and hands on learning, while always ensuring that I have fun in everything I do💪🔥
+I am a hardworking and determined junior software engineer with an eager hunger for knowledge and hands on learning, while always ensuring that I have fun in everything I do💪🔥
 
 **Skills:** C# / JS / HTML / CSS
 
