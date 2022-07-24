@@ -1,6 +1,7 @@
-Hi there👋 I am Sonwabile Balite😁❤
-#### I am a junior software engineer with an extreme hunger to learn
 ![I am a junior software engineer with an extreme hunger to learn](https://github.com/Sonwabile365/Sonwabile365/blob/main/Github%20ReadMe%20Picture.png)
+
+Hi👋 I am Sonwabile Balite😁❤
+#### I am a junior software engineer with an extreme hunger to learn
 
 I am a hardworking and determined student with an eager hunger for knowledge and hands on learning, while always ensuring that I have fun in everything I do💪🔥
 
